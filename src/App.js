@@ -73,5 +73,5 @@ export const App = (props) => {
 };
 
 export default GoogleApiWrapper({
-  apiKey: "AIzaSyCmS7UQZi75sX36V-CTdjzhRgz7SW2ho4g",
+  apiKey: "api key here",
 })(App);
